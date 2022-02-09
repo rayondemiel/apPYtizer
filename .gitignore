@@ -1,0 +1,15 @@
+
+# ignore ALL .log files
+*.log 
+
+#ignore venv
+.venv/
+
+# ignore idea
+.idea/
+
+#ignore pycharm
+GreenPy/__pycache__/
+GreenPy/__pycache__/*
+__pycache__/
+GreenPy/modeles/__pycache__/*

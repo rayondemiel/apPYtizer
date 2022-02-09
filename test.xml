@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+         <p>
+<app>
+<rdg wit="Cou">Coment Philipe</rdg>
+<rdg wit="NY">La mort du roy Charles de France et du</rdg>
+<rdg wit="Pa">Le</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">commencement</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">du roy Phelippe</rdg>
+<rdg wit="Pa">des guerres de France et d’Engleterre et la maniere comment et pourquoy elles advindrent. XXXV</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de Valois</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">fut coroné roy de France</rdg>
+<rdg wit="NY Pa"/>
+</app>
+.
+<app>
+<rdg wit="Cou">Li rois</rdg>
+<rdg wit="NY Pa">Le roy</rdg>
+</app>
+Charles de France,
+<app>
+<rdg wit="Cou">fils</rdg>
+<rdg wit="NY Pa">filz</rdg>
+</app>
+au
+<app>
+<rdg wit="Cou">biau</rdg>
+<rdg wit="NY Pa">beau</rdg>
+</app>
+roy Phelippe
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou NY">fu III</rdg>
+<rdg wit="Pa">fut trois</rdg>
+</app>
+fois
+<app>
+<rdg wit="Cou">mariés</rdg>
+<rdg wit="NY">mariéz</rdg>
+<rdg wit="Pa">marié</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+et si
+<app>
+<rdg wit="Cou">morut</rdg>
+<rdg wit="NY">mouru</rdg>
+<rdg wit="Pa">mourut</rdg>
+</app>
+sans hoir
+<app>
+<rdg wit="Cou">marle</rdg>
+<rdg wit="NY Pa">masle</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+dont ce
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut dommaige</rdg>
+</app>
+<app>
+<rdg wit="Cou">damages</rdg>
+<rdg wit="NY">dommage</rdg>
+<rdg wit="Pa"/>
+</app>
+pour le royaume
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">de France</rdg>
+</app>
+, si
+<app>
+<rdg wit="Cou">com</rdg>
+<rdg wit="NY Pa">comme</rdg>
+</app>
+vous
+<app>
+<rdg wit="Cou">oréz chi</rdg>
+<rdg wit="NY">orréz</rdg>
+<rdg wit="Pa">orrés</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">cy</rdg>
+</app>
+aprés.
+<app>
+<rdg wit="Cou">Li</rdg>
+<rdg wit="NY Pa">La</rdg>
+</app>
+premiere de ses femmes
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut</rdg>
+</app>
+<app>
+<rdg wit="Cou">li une</rdg>
+<rdg wit="NY Pa">l’une</rdg>
+</app>
+des plus belles dames
+<app>
+<rdg wit="Cou">dou</rdg>
+<rdg wit="NY Pa">du</rdg>
+</app>
+monde
+<app>
+<rdg wit="Cou NY">et fu</rdg>
+<rdg wit="Pa">, qui fut</rdg>
+</app>
+fille
+<app>
+<rdg wit="Cou">le contesse</rdg>
+<rdg wit="NY">du conte</rdg>
+<rdg wit="Pa">au conte d’Artoys</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">d’Artois</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">. Celle garda mal son mariage et se</rdg>
+<rdg wit="Pa">.Celle garda mal son mariage et se</rdg>
+</app>
+<app>
+<rdg wit="Cou">fourfist</rdg>
+<rdg wit="NY Pa">forfist</rdg>
+</app>
+, par quoy elle en
+<app>
+<rdg wit="Cou">demora lonctamps</rdg>
+<rdg wit="NY Pa">demoura longtemps</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">ou</rdg>
+<rdg wit="Pa">a</rdg>
+</app>
+<app>
+<rdg wit="Cou">Castiel</rdg>
+<rdg wit="NY Pa">Chastel</rdg>
+</app>
+Gaillart
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+en prison
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">en</rdg>
+<rdg wit="NY">a</rdg>
+</app>
+grant meschief
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY">ainçois</rdg>
+</app>
+<app>
+<rdg wit="Cou">anchois</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">avant</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">ses maris</rdg>
+<rdg wit="NY Pa">son mary</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">fust</rdg>
+<rdg wit="Pa">feust</rdg>
+</app>
+<app>
+<rdg wit="Cou">rois</rdg>
+<rdg wit="NY Pa">roy</rdg>
+</app>
+.
+<app>
+<rdg wit="Cou">Quand li royalmes</rdg>
+<rdg wit="NY Pa">Quant le</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">royaume</rdg>
+<rdg wit="Pa">royaulme</rdg>
+</app>
+de France
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">lui</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut</rdg>
+</app>
+<app>
+<rdg wit="Cou">escheus</rdg>
+<rdg wit="NY Pa">escheu</rdg>
+</app>
+et il
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut roy couronné</rdg>
+</app>
+<app>
+<rdg wit="Cou">couronnés</rdg>
+<rdg wit="NY">couronnéz</rdg>
+<rdg wit="Pa"/>
+</app>
+,
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">les</rdg>
+</app>
+XII
+<app>
+<rdg wit="Cou">per</rdg>
+<rdg wit="NY Pa">pers</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">de France</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou">li baron</rdg>
+<rdg wit="NY Pa">les barons</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de France</rdg>
+<rdg wit="Pa"/>
+</app>
+ne
+<app>
+<rdg wit="Cou">vorent nient</rdg>
+<rdg wit="NY Pa">vouloient</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">mie</rdg>
+<rdg wit="Pa">point</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">se il peuissent</rdg>
+<rdg wit="NY Pa">s’ilz peussent</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+que
+<app>
+<rdg wit="Cou">li royaulmes de France demorast</rdg>
+<rdg wit="NY Pa">le</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">royaume</rdg>
+<rdg wit="Pa">roy</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">demourast</rdg>
+</app>
+sans hoir
+<app>
+<rdg wit="Cou">marle</rdg>
+<rdg wit="NY Pa">masle</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">.</rdg>
+<rdg wit="NY">,</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">Si</rdg>
+<rdg wit="NY">si</rdg>
+</app>
+<app>
+<rdg wit="Cou">quisent</rdg>
+<rdg wit="NY Pa">quistrent</rdg>
+</app>
+sens et
+<app>
+<rdg wit="Cou NY">avis</rdg>
+<rdg wit="Pa">advis</rdg>
+</app>
+par quoy
+<app>
+<rdg wit="Cou">li rois</rdg>
+<rdg wit="NY Pa">le roy</rdg>
+</app>
+Charles
+<app>
+<rdg wit="Cou NY">fust</rdg>
+<rdg wit="Pa">feust</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">remariés</rdg>
+<rdg wit="NY">remariéz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">, et le fu</rdg>
+<rdg wit="Pa">. Si le fut</rdg>
+</app>
+a
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+fille
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">de</rdg>
+</app>
+l’empereur
+<app>
+<rdg wit="Cou Pa">Henri</rdg>
+<rdg wit="NY">Henry</rdg>
+</app>
+de
+<app>
+<rdg wit="Cou">Lucembourch</rdg>
+<rdg wit="NY">Lucembourt</rdg>
+<rdg wit="Pa">Lucembourc</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou">soer</rdg>
+<rdg wit="NY Pa">suer</rdg>
+</app>
+au gentil roy de
+<app>
+<rdg wit="Cou Pa">Behaigne</rdg>
+<rdg wit="NY">Behaingne</rdg>
+</app>
+,
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+par quoy
+<app>
+<rdg wit="Cou">li premiers mariages fust deffais</rdg>
+<rdg wit="NY Pa">le premier mariage</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">fu deffait</rdg>
+<rdg wit="Pa">fut fait</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou">anullés</rdg>
+<rdg wit="NY Pa">anullé</rdg>
+</app>
+de celle
+<app>
+<rdg wit="Cou NY">dame</rdg>
+<rdg wit="Pa"/>
+</app>
+qui en prison estoit
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">. Et ce fut fait</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">et tout</rdg>
+<rdg wit="Pa"/>
+</app>
+par
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+declaration
+<app>
+<rdg wit="Cou NY">du</rdg>
+<rdg wit="Pa">de nostre Saint Pere le</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">pape</rdg>
+<rdg wit="NY">pappe</rdg>
+</app>
+,
+<app>
+<rdg wit="Cou NY">nostre Saint Pere, qui adont</rdg>
+<rdg wit="Pa">qui pour lors</rdg>
+</app>
+estoit. De celle seconde
+<app>
+<rdg wit="Cou">femme</rdg>
+<rdg wit="NY Pa">dame</rdg>
+</app>
+de
+<app>
+<rdg wit="Cou">Luxembourc</rdg>
+<rdg wit="NY Pa">Lucembourc</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+qui
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">moult</rdg>
+</app>
+estoit
+<app>
+<rdg wit="Cou NY">moult</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">humle</rdg>
+<rdg wit="NY Pa">humble</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou NY">moult</rdg>
+<rdg wit="Pa"/>
+</app>
+preude femme
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+ot
+<app>
+<rdg wit="Cou">li rois</rdg>
+<rdg wit="NY Pa">le roy</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">I</rdg>
+<rdg wit="Pa">un</rdg>
+</app>
+<app>
+<rdg wit="Cou">fil</rdg>
+<rdg wit="NY Pa">filz</rdg>
+</app>
+qui
+<app>
+<rdg wit="Cou">morut</rdg>
+<rdg wit="NY">mouru</rdg>
+<rdg wit="Pa">mourut</rdg>
+</app>
+moult
+<app>
+<rdg wit="Cou">jones</rdg>
+<rdg wit="NY">joenne</rdg>
+<rdg wit="Pa">jeune.</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa">Et</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">assés</rdg>
+<rdg wit="NY">asséz</rdg>
+</app>
+tost
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">aprés</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">mourut</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">la</rdg>
+</app>
+mere
+<app>
+<rdg wit="Cou">apriés</rdg>
+<rdg wit="NY">trespassa aussi</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+a
+<app>
+<rdg wit="Cou">Ysodoy</rdg>
+<rdg wit="NY">Ysodon</rdg>
+<rdg wit="Pa">Yssoudun</rdg>
+</app>
+en Berry
+<app>
+<rdg wit="Cou Pa">.</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou Pa">Et</rdg>
+<rdg wit="NY">et</rdg>
+</app>
+<app>
+<rdg wit="Cou">morurent tout doy souspecheneusement</rdg>
+<rdg wit="NY Pa">moururent tous deux</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">asséz</rdg>
+<rdg wit="Pa">assés</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">souspeçonneusement</rdg>
+</app>
+, de
+<app>
+<rdg wit="Cou">quoi</rdg>
+<rdg wit="NY Pa">quoy</rdg>
+</app>
+aucunes gens furent
+<app>
+<rdg wit="Cou">encouppés en deriere</rdg>
+<rdg wit="NY">encoulpés</rdg>
+<rdg wit="Pa">encoulpéz</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">par derriere</rdg>
+</app>
+couvertement. Aprés
+<app>
+<rdg wit="Cou">, chis rois</rdg>
+<rdg wit="NY Pa">ce</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">roy</rdg>
+<rdg wit="Pa">fut le roy</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">Charles fu</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">remariés</rdg>
+<rdg wit="NY">remariéz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">tierce fois</rdg>
+<rdg wit="Pa"/>
+</app>
+a
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+fille de son oncle de remariage,
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+fille
+<app>
+<rdg wit="Cou">a monsigneur Loeis,</rdg>
+<rdg wit="NY Pa">de monseigneur Loÿs</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">,</rdg>
+</app>
+conte
+<app>
+<rdg wit="Cou">de Wines, le</rdg>
+<rdg wit="NY Pa">d’Evreux, la</rdg>
+</app>
+royne
+<app>
+<rdg wit="Cou">Jehane,</rdg>
+<rdg wit="NY Pa">Jehanne</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa">,</rdg>
+</app>
+<app>
+<rdg wit="Cou">sereur</rdg>
+<rdg wit="NY Pa">suer</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">au</rdg>
+<rdg wit="NY">du</rdg>
+</app>
+roy de
+<app>
+<rdg wit="Cou">Navare</rdg>
+<rdg wit="NY Pa">Navarre</rdg>
+</app>
+qui
+<app>
+<rdg wit="Cou NY">adont</rdg>
+<rdg wit="Pa">adonques</rdg>
+</app>
+estoit.
+<app>
+<rdg wit="Cou">Puissedi</rdg>
+<rdg wit="NY">Aprés</rdg>
+<rdg wit="Pa">Adoncques advint apres</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">avint</rdg>
+<rdg wit="Pa"/>
+</app>
+que
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">quant</rdg>
+</app>
+celle dame
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut</rdg>
+</app>
+<app>
+<rdg wit="Cou">enchainte et li dis rois, ses maris,</rdg>
+<rdg wit="NY Pa">ençainte</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">et</rdg>
+<rdg wit="Pa">,</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">le dit roy son</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">mary</rdg>
+<rdg wit="Pa">mari acoucha</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">s’acoucha</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">maladez</rdg>
+<rdg wit="NY Pa">malade</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">au lit de</rdg>
+<rdg wit="Pa">.
+            
+            Et</rdg>
+</app>
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY">la</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">mort.</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">Quant il</rdg>
+<rdg wit="Pa">quant il</rdg>
+</app>
+<app>
+<rdg wit="Cou">perchut</rdg>
+<rdg wit="NY">apparçut</rdg>
+<rdg wit="Pa">apperçeut</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">morir</rdg>
+<rdg wit="NY Pa">mourir</rdg>
+</app>
+le
+<app>
+<rdg wit="Cou">convenoit</rdg>
+<rdg wit="NY Pa">couvenoit</rdg>
+</app>
+, il devisa que
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+s’il
+<app>
+<rdg wit="Cou NY">avenoit que</rdg>
+<rdg wit="Pa">advenoit que sa femme acouchast</rdg>
+</app>
+<app>
+<rdg wit="Cou">li roine s’acouchast</rdg>
+<rdg wit="NY">la royne se acouçast</rdg>
+<rdg wit="Pa"/>
+</app>
+d’un
+<app>
+<rdg wit="Cou">fil</rdg>
+<rdg wit="NY Pa">filz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+il
+<app>
+<rdg wit="Cou">voloit</rdg>
+<rdg wit="NY Pa">vouloit</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">messires Phelippes de Valois, ses cousins germains,</rdg>
+<rdg wit="NY">mesire</rdg>
+<rdg wit="Pa">messire</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">Phelippe de Valois son cousin</rdg>
+</app>
+en
+<app>
+<rdg wit="Cou NY">fust</rdg>
+<rdg wit="Pa">feust maimbourt</rdg>
+</app>
+<app>
+<rdg wit="Cou">mambours</rdg>
+<rdg wit="NY">mainbour</rdg>
+<rdg wit="Pa"/>
+</app>
+et
+<app>
+<rdg wit="Cou">regens</rdg>
+<rdg wit="NY Pa">regent</rdg>
+</app>
+de tout son
+<app>
+<rdg wit="Cou">roiaume</rdg>
+<rdg wit="NY Pa">royaume</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">, jusques adont</rdg>
+<rdg wit="Pa">jusques a tant</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">ses fils</rdg>
+<rdg wit="NY Pa">son filz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">seroit en</rdg>
+<rdg wit="Pa">eust</rdg>
+</app>
+<app>
+<rdg wit="Cou">eage</rdg>
+<rdg wit="NY Pa">aage</rdg>
+</app>
+d’estre
+<app>
+<rdg wit="Cou">rois;</rdg>
+<rdg wit="NY Pa">roy.</rdg>
+</app>
+<app>
+<rdg wit="Cou">et s’il</rdg>
+<rdg wit="NY Pa">Et s’il</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">avenoit</rdg>
+<rdg wit="Pa">advenoit</rdg>
+</app>
+que ce
+<app>
+<rdg wit="Cou NY">fust</rdg>
+<rdg wit="Pa">feust</rdg>
+</app>
+une fille, que
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">les</rdg>
+</app>
+XII
+<app>
+<rdg wit="Cou">per</rdg>
+<rdg wit="NY Pa">pers</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou">li hault baron</rdg>
+<rdg wit="NY Pa">les</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">hauls</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">barons</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de France</rdg>
+<rdg wit="Pa">du royaume</rdg>
+</app>
+<app>
+<rdg wit="Cou">euissent</rdg>
+<rdg wit="NY Pa">eussent</rdg>
+</app>
+conseil et
+<app>
+<rdg wit="Cou NY">avis entre</rdg>
+<rdg wit="Pa">advis entr’eulx d’en</rdg>
+</app>
+<app>
+<rdg wit="Cou">yaus del</rdg>
+<rdg wit="NY">eulx de</rdg>
+<rdg wit="Pa"/>
+</app>
+ordonner
+<app>
+<rdg wit="Cou NY">, et donnassent le royaume a</rdg>
+<rdg wit="Pa">et le donassent acellui</rdg>
+</app>
+<app>
+<rdg wit="Cou">chelui</rdg>
+<rdg wit="NY">cellui</rdg>
+<rdg wit="Pa"/>
+</app>
+qui avoir le
+<app>
+<rdg wit="Cou">deveroit</rdg>
+<rdg wit="NY Pa">devroit</rdg>
+</app>
+par droit. Sur
+<app>
+<rdg wit="Cou">che li rois</rdg>
+<rdg wit="NY Pa">ce le roy</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">Charles ala morir</rdg>
+<rdg wit="Pa">se mourut,</rdg>
+</app>
+environ Pasques
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+l’an de
+<app>
+<rdg wit="Cou">grasce</rdg>
+<rdg wit="NY">grace</rdg>
+<rdg wit="Pa">Grace</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">Nostre</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">Signeur M</rdg>
+<rdg wit="NY">Seigneur</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">mil</rdg>
+</app>
+CCC XXVIII. Ne
+<app>
+<rdg wit="Cou">demora mies</rdg>
+<rdg wit="NY Pa">demoura mie</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">granment</rdg>
+<rdg wit="Pa">grandement</rdg>
+</app>
+aprés
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">ce</rdg>
+</app>
+que la
+<app>
+<rdg wit="Cou">roine Jehenne</rdg>
+<rdg wit="NY Pa">royne</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">Jehanne</rdg>
+</app>
+acoucha d’une fille, de quoy
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">le</rdg>
+</app>
+plus
+<app>
+<rdg wit="Cou">del royalme</rdg>
+<rdg wit="NY Pa">du royaume</rdg>
+</app>
+en
+<app>
+<rdg wit="Cou NY">furent</rdg>
+<rdg wit="Pa">fut</rdg>
+</app>
+durement
+<app>
+<rdg wit="Cou">courouchiet et tourblé</rdg>
+<rdg wit="NY">courrouciés et troubléz</rdg>
+<rdg wit="Pa">courroucié</rdg>
+</app>
+. Quant
+<app>
+<rdg wit="Cou">li</rdg>
+<rdg wit="NY Pa">les</rdg>
+</app>
+XII
+<app>
+<rdg wit="Cou">per et li hault baron</rdg>
+<rdg wit="NY Pa">pers et</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">les</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">barons</rdg>
+</app>
+de France
+<app>
+<rdg wit="Cou Pa">sceurent</rdg>
+<rdg wit="NY">sçorent ce</rdg>
+</app>
+<app>
+<rdg wit="Cou">chou, il</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">ce,</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">ilz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">se</rdg>
+<rdg wit="Pa">s’assemblerent</rdg>
+</app>
+<app>
+<rdg wit="Cou">assamblerent</rdg>
+<rdg wit="NY">assemblerent</rdg>
+<rdg wit="Pa"/>
+</app>
+a Paris au plus tost
+<app>
+<rdg wit="Cou Pa">qu’il</rdg>
+<rdg wit="NY">qu’ilz</rdg>
+</app>
+<app>
+<rdg wit="Cou">peurent.</rdg>
+<rdg wit="NY Pa">porent</rdg>
+</app>
+<app>
+<rdg wit="Cou">Et donnerent le</rdg>
+<rdg wit="NY">et donnerent le</rdg>
+<rdg wit="Pa">, et</rdg>
+</app>
+<app>
+<rdg wit="Cou">commun roiaulme,</rdg>
+<rdg wit="NY">royaume</rdg>
+<rdg wit="Pa"/>
+</app>
+de commun
+<app>
+<rdg wit="Cou">acord,</rdg>
+<rdg wit="NY Pa">accord</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">donnerent le royaulme</rdg>
+</app>
+a
+<app>
+<rdg wit="Cou">monsigneur Phelippe de Vallois, fils</rdg>
+<rdg wit="NY">monseigneur</rdg>
+<rdg wit="Pa">messire</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">Phelippe de Valois, filz</rdg>
+</app>
+jadis au conte de
+<app>
+<rdg wit="Cou">Vallois,</rdg>
+<rdg wit="NY Pa">Valois</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">.</rdg>
+<rdg wit="Pa">,</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">et en osterent</rdg>
+<rdg wit="NY">Et en osterent</rdg>
+</app>
+<app>
+<rdg wit="Cou">le roine</rdg>
+<rdg wit="NY Pa">la royne</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">d’Engleterre</rdg>
+<rdg wit="Pa">d’Angleterre</rdg>
+</app>
+et le
+<app>
+<rdg wit="Cou">roi</rdg>
+<rdg wit="NY Pa">roy</rdg>
+</app>
+son
+<app>
+<rdg wit="Cou">fil</rdg>
+<rdg wit="NY Pa">filz</rdg>
+</app>
+, qui estoit
+<app>
+<rdg wit="Cou">demoree</rdg>
+<rdg wit="NY">demouree</rdg>
+<rdg wit="Pa"/>
+</app>
+suer germaine au roy
+<app>
+<rdg wit="Cou">Charle darrainement trespasset</rdg>
+<rdg wit="NY Pa">Charles</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">derrenierement trespasséz</rdg>
+<rdg wit="Pa">derrainement mort. Pour</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">, par</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY">la</rdg>
+<rdg wit="Pa"/>
+</app>
+raison de
+<app>
+<rdg wit="Cou">chou qu’il</rdg>
+<rdg wit="NY Pa">ce qu’ilz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">dient</rdg>
+<rdg wit="Pa">disoient</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">li roiaumes</rdg>
+<rdg wit="NY Pa">le</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">royaume</rdg>
+<rdg wit="Pa">royaulme</rdg>
+</app>
+de France est de si grant
+<app>
+<rdg wit="Cou">noblece</rdg>
+<rdg wit="NY Pa">noblesce</rdg>
+</app>
+qu’il ne doit
+<app>
+<rdg wit="Cou">mies aller</rdg>
+<rdg wit="NY Pa">mie</rdg>
+</app>
+par succession
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">aler</rdg>
+</app>
+a
+<app>
+<rdg wit="Cou">fumelle</rdg>
+<rdg wit="NY Pa">femelle</rdg>
+</app>
+,
+<app>
+<rdg wit="Cou">ne par consequense a fil de fumelle, ensi</rdg>
+<rdg wit="NY Pa">ainsi</rdg>
+</app>
+que vous
+<app>
+<rdg wit="Cou">avés</rdg>
+<rdg wit="NY Pa">avéz</rdg>
+</app>
+oy
+<app>
+<rdg wit="Cou">chi</rdg>
+<rdg wit="NY Pa">ça</rdg>
+</app>
+devant
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+au
+<app>
+<rdg wit="Cou NY">commencement</rdg>
+<rdg wit="Pa">commancement</rdg>
+</app>
+de
+<app>
+<rdg wit="Cou">che</rdg>
+<rdg wit="NY Pa">ce</rdg>
+</app>
+livre. Et
+<app>
+<rdg wit="Cou">fisent cheli monsigneur</rdg>
+<rdg wit="NY Pa">firent</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">cellui monseigneur</rdg>
+<rdg wit="Pa">ycellui messire</rdg>
+</app>
+Phelippe couronner
+<app>
+<rdg wit="Cou NY">a Rains</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">,</rdg>
+</app>
+l’an
+<app>
+<rdg wit="Cou">de Grace</rdg>
+<rdg wit="NY Pa"/>
+</app>
+mil CCC XXVIII, le jour de
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+Trinité
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY">.</rdg>
+<rdg wit="Pa">, donc</rdg>
+</app>
+<app>
+<rdg wit="Cou">dont</rdg>
+<rdg wit="NY">Dont</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">puissedi</rdg>
+<rdg wit="NY Pa">aprés</rdg>
+</app>
+grant guerre
+<app>
+<rdg wit="Cou NY">et grant</rdg>
+<rdg wit="Pa">advint</rdg>
+</app>
+<app>
+<rdg wit="Cou">desolution</rdg>
+<rdg wit="NY">desolation</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">avint</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">au royaulme</rdg>
+<rdg wit="NY Pa">ou royaume</rdg>
+</app>
+de France
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">et</rdg>
+</app>
+en
+<app>
+<rdg wit="Cou">pluiseurs</rdg>
+<rdg wit="NY">pluseurs</rdg>
+<rdg wit="Pa">plusieurs païs,</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">paÿs, si</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">com</rdg>
+<rdg wit="NY Pa">comme</rdg>
+</app>
+vous
+<app>
+<rdg wit="Cou">porés</rdg>
+<rdg wit="NY Pa">pourréz</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">oir</rdg>
+<rdg wit="NY">oyr</rdg>
+</app>
+en ceste
+<app>
+<rdg wit="Cou">hystore</rdg>
+<rdg wit="NY">histoire</rdg>
+<rdg wit="Pa">hystoire</rdg>
+</app>
+.
+<app>
+<rdg wit="Cou Pa">Assés</rdg>
+<rdg wit="NY">Asséz</rdg>
+</app>
+tost
+<app>
+<rdg wit="Cou">apriés chou</rdg>
+<rdg wit="NY Pa">aprés</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">ce</rdg>
+<rdg wit="Pa">que ce roy Phelippe fut</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">que</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">cils rois Phelippes</rdg>
+<rdg wit="NY">le roy Phelippe</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">couronnés a Rains</rdg>
+<rdg wit="NY Pa">couronné</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">a Reins</rdg>
+</app>
+, il
+<app>
+<rdg wit="Cou">semonst</rdg>
+<rdg wit="NY">vint a grant ost a la ville de Cassel contre</rdg>
+<rdg wit="Pa">semonny</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">ses princes, ses barons et toutes ses gens d’armes</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">et ala a tout son</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">pooir logier en le vallee de</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">pouoir devers</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">Cassel pour</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">guerrier</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">guerroier</rdg>
+</app>
+les Flamens
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+qui
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">la</rdg>
+<rdg wit="Pa">s’estoient rebelléz a leur seigneur, mesmement</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">estoient</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">rebelle a leur signeur, chiaus</rdg>
+<rdg wit="NY">assembléz, c’est assavoir</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">ceulx</rdg>
+</app>
+de Bruges
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">chiaus d’Ippre</rdg>
+<rdg wit="NY">d’Ipre</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">et</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">chiaus dou Franch,</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">ceulx d’Ypre</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">et</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">ceulx</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">du Franc,</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">et</rdg>
+<rdg wit="NY">qui</rdg>
+</app>
+ne
+<app>
+<rdg wit="Cou NY">voloient</rdg>
+<rdg wit="Pa">vouloient</rdg>
+</app>
+obeir
+<app>
+<rdg wit="Cou NY">au conte de Flandres</rdg>
+<rdg wit="Pa">a lui. Ains</rdg>
+</app>
+<app>
+<rdg wit="Cou">, mes</rdg>
+<rdg wit="NY">qui</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">l’avoient</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">decachiet. Et</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">dechacié si qu’il</rdg>
+</app>
+ne
+<app>
+<rdg wit="Cou">pooit adont</rdg>
+<rdg wit="NY">se</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">pouoit</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">nulle part</rdg>
+<rdg wit="NY">tenir ou paÿs</rdg>
+</app>
+<app>
+<rdg wit="Cou">demorer</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">en son païs</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">demourer</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+fors
+<app>
+<rdg wit="Cou">tant</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">que</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">seulement</rdg>
+<rdg wit="Pa"/>
+</app>
+a Gand,
+<app>
+<rdg wit="Cou">et</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">encores</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">assés escarsement</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">bien escharcement</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">.</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou Pa">Si</rdg>
+<rdg wit="NY">si</rdg>
+</app>
+<app>
+<rdg wit="Cou">desconfi adont li rois Phelippes</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">desconfist adoncques le roy Phelippe</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">bien</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">XVI M hommes flamens,</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">XM Flamens</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">qui</rdg>
+<rdg wit="NY"/>
+</app>
+avoient
+<app>
+<rdg wit="Cou Pa">fait</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">I capitaine qui se nommoit Colins</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">un</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">cappitaine</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">un</rdg>
+<rdg wit="Pa">nommé Colin</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">Dennekins,</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">hardi</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">homme</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">moult</rdg>
+<rdg wit="Pa">et courageux</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">hardy</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">et outrageus homme</rdg>
+<rdg wit="NY">nommé Colin Dannekins.</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">durement. Et avoient</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">li dessus dit Flamenc fait</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">les diz Flamens faite</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">leur garnison de</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">le ville de</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">Cassel</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">au</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">commenchement et as gages</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">commandement et aux gaiges</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">des villes de Flandres</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">pour garder ces frontieres la endroit.</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">Cy parle de</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou">la bataille de</rdg>
+<rdg wit="NY">La bataille de</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">Casse</rdg>
+<rdg wit="NY">Cassel</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">en</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">Flandre</rdg>
+<rdg wit="NY">Flandres</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">.</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">Et vous diray comment</rdg>
+<rdg wit="NY">Cilz</rdg>
+</app>
+<app>
+<rdg wit="Cou">chil de Flandres</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">ces Flamens</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">furent</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">desconfit et tout</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">desconfiz</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">par leur</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">oultrage</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">oultraige</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">.</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">Il</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">Comment les Flamens furent desconfis par nuit en trois diverses batailles. XXXVI.
+               
+               Les Flamens</rdg>
+</app>
+se
+<app>
+<rdg wit="Cou">departirent I</rdg>
+<rdg wit="NY Pa">partirent un</rdg>
+</app>
+jour
+<app>
+<rdg wit="Cou NY">sus l’eure</rdg>
+<rdg wit="Pa">a heure de soupper</rdg>
+</app>
+<app>
+<rdg wit="Cou">dou soupper en entente</rdg>
+<rdg wit="NY">du souper</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">de Cassel en entention</rdg>
+</app>
+que pour desconfire le roy et
+<app>
+<rdg wit="Cou">toute</rdg>
+<rdg wit="NY Pa">tout</rdg>
+</app>
+son ost
+<app>
+<rdg wit="Cou">.</rdg>
+<rdg wit="NY">,</rdg>
+<rdg wit="Pa">. Ilz</rdg>
+</app>
+<app>
+<rdg wit="Cou">Et</rdg>
+<rdg wit="NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+s’en
+<app>
+<rdg wit="Cou">vinrent</rdg>
+<rdg wit="NY Pa">vindrent</rdg>
+</app>
+tout paisiblement
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">,</rdg>
+</app>
+sans
+<app>
+<rdg wit="Cou NY">point de</rdg>
+<rdg wit="Pa">faire</rdg>
+</app>
+noise,
+<app>
+<rdg wit="Cou">ordonné en III</rdg>
+<rdg wit="NY">ordonnéz</rdg>
+<rdg wit="Pa">ordonnés</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">en trois</rdg>
+</app>
+batailles,
+<app>
+<rdg wit="Cou">dont li une en</rdg>
+<rdg wit="NY Pa">desquelles l’une s’en</rdg>
+</app>
+ala droit
+<app>
+<rdg wit="Cou">as</rdg>
+<rdg wit="NY Pa">aux</rdg>
+</app>
+tentes
+<app>
+<rdg wit="Cou">le roy. Et eurent priés</rdg>
+<rdg wit="NY Pa">du roy</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">et orent pres</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">le roy souspris,</rdg>
+<rdg wit="Pa"/>
+</app>
+qui seoit au
+<app>
+<rdg wit="Cou NY">souper</rdg>
+<rdg wit="Pa">soupper</rdg>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et toutes ses gens
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">aussi</rdg>
+</app>
+.
+<app>
+<rdg wit="Cou">Li aultre</rdg>
+<rdg wit="NY Pa">L’autre</rdg>
+</app>
+bataille s’en ala droit
+<app>
+<rdg wit="Cou">as</rdg>
+<rdg wit="NY Pa">aux</rdg>
+</app>
+tentes
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">du</rdg>
+</app>
+roy de
+<app>
+<rdg wit="Cou">Behaigne. Et l’eurent prés</rdg>
+<rdg wit="NY">Bahaigne et l’orent pres</rdg>
+<rdg wit="Pa">Behaine et le trouverent pres que</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">trouvé</rdg>
+<rdg wit="Pa"/>
+</app>
+en tel point. Et
+<app>
+<rdg wit="Cou NY">la</rdg>
+<rdg wit="Pa">l’autre</rdg>
+</app>
+<app>
+<rdg wit="Cou">tierche</rdg>
+<rdg wit="NY">tierce</rdg>
+<rdg wit="Pa"/>
+</app>
+bataille s’en ala
+<app>
+<rdg wit="Cou NY">droitement</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">as</rdg>
+<rdg wit="NY Pa">aux</rdg>
+</app>
+tentes
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">droitement</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">du</rdg>
+</app>
+conte de
+<app>
+<rdg wit="Cou">Hainnau, et l’eurent priés</rdg>
+<rdg wit="NY">Hainau et l’orent</rdg>
+<rdg wit="Pa">Haynault et l’eurent</rdg>
+</app>
+aussi
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">pres</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">souspris</rdg>
+<rdg wit="Pa">que surpris</rdg>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et le hasterent
+<app>
+<rdg wit="Cou NY">si</rdg>
+<rdg wit="Pa">tant</rdg>
+</app>
+que a
+<app>
+<rdg wit="Cou NY">grant</rdg>
+<rdg wit="Pa"/>
+</app>
+paine
+<app>
+<rdg wit="Cou Pa">peurent</rdg>
+<rdg wit="NY">porent</rdg>
+</app>
+ses gens estre
+<app>
+<rdg wit="Cou">armet</rdg>
+<rdg wit="NY">armes</rdg>
+<rdg wit="Pa">arméz</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+ne les gens
+<app>
+<rdg wit="Cou">monsigneur</rdg>
+<rdg wit="NY">monseigneur</rdg>
+<rdg wit="Pa">de messire Jehan de Beaumont</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de Biaumont,</rdg>
+<rdg wit="Pa"/>
+</app>
+son frere. Et
+<app>
+<rdg wit="Cou">vinrent</rdg>
+<rdg wit="NY Pa">vindrent</rdg>
+</app>
+toutes ces
+<app>
+<rdg wit="Cou">III bataillez</rdg>
+<rdg wit="NY Pa">trois batailles</rdg>
+</app>
+si paisiblement jusques
+<app>
+<rdg wit="Cou">a</rdg>
+<rdg wit="NY Pa">aux</rdg>
+</app>
+tentes
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+que a grant meschief
+<app>
+<rdg wit="Cou NY">furent</rdg>
+<rdg wit="Pa">peurent</rdg>
+</app>
+<app>
+<rdg wit="Cou">li signeur armet,</rdg>
+<rdg wit="NY Pa">les seigneurs</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">arméz</rdg>
+<rdg wit="Pa">estre armés</rdg>
+</app>
+ne leurs gens
+<app>
+<rdg wit="Cou">assamblés. Et euissent tout li signeur</rdg>
+<rdg wit="NY">assembléz. Et en</rdg>
+<rdg wit="Pa">assemblés, et</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">eussent</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">tous les seigneurs</rdg>
+<rdg wit="Pa">tous</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">et leurs gens</rdg>
+<rdg wit="Pa"/>
+</app>
+esté mors
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+se
+<app>
+<rdg wit="Cou">Dieus</rdg>
+<rdg wit="NY">Dieux</rdg>
+<rdg wit="Pa">Dieu</rdg>
+</app>
+ne les
+<app>
+<rdg wit="Cou">euist, ensi</rdg>
+<rdg wit="NY Pa">eust ainsi</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">que par droit</rdg>
+<rdg wit="Pa">comme par</rdg>
+</app>
+miracle
+<app>
+<rdg wit="Cou">, secourut et aidiet. Mes, par le grasce et le volenté</rdg>
+<rdg wit="NY">secouru et aidié,</rdg>
+<rdg wit="Pa">secouruz et aidiéz.</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">mais par la grace</rdg>
+<rdg wit="Pa">Mais par la grace</rdg>
+</app>
+de Dieu
+<app>
+<rdg wit="Cou">, cascuns</rdg>
+<rdg wit="NY Pa">chascun</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de ces</rdg>
+<rdg wit="Pa">d’iceulx desconfirent</rdg>
+</app>
+<app>
+<rdg wit="Cou">signeurs desconfi se</rdg>
+<rdg wit="NY">seigneurs desconfist</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">sa</rdg>
+</app>
+bataille si entierement
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et tous
+<app>
+<rdg wit="Cou NY">a</rdg>
+<rdg wit="Pa">en</rdg>
+</app>
+une heure et en
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">I</rdg>
+<rdg wit="Pa">un</rdg>
+</app>
+point
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+que
+<app>
+<rdg wit="Cou NY">onques de tous ces</rdg>
+<rdg wit="Pa">oncques de tous les</rdg>
+</app>
+<app>
+<rdg wit="Cou">XVI mille</rdg>
+<rdg wit="NY">XVIM</rdg>
+<rdg wit="Pa"/>
+</app>
+Flamens
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">il</rdg>
+</app>
+n’en
+<app>
+<rdg wit="Cou">escapa que mil</rdg>
+<rdg wit="NY Pa">eschappa</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">M</rdg>
+<rdg wit="Pa">nul</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">,</rdg>
+<rdg wit="NY"/>
+</app>
+et
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">y fut</rdg>
+</app>
+leur
+<app>
+<rdg wit="Cou">capitaine mors</rdg>
+<rdg wit="NY Pa">cappitaine mort</rdg>
+</app>
+. Et si ne
+<app>
+<rdg wit="Cou">sceut</rdg>
+<rdg wit="NY Pa">sçot</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">onques</rdg>
+<rdg wit="Pa">oncques</rdg>
+</app>
+<app>
+<rdg wit="Cou">nuls</rdg>
+<rdg wit="NY Pa">nul</rdg>
+</app>
+de ces
+<app>
+<rdg wit="Cou">signeurs</rdg>
+<rdg wit="NY Pa">seigneurs</rdg>
+</app>
+nouvelles
+<app>
+<rdg wit="Cou">li uns</rdg>
+<rdg wit="NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">l’un</rdg>
+</app>
+de l’autre
+<app>
+<rdg wit="Cou NY">, jusques</rdg>
+<rdg wit="Pa">jusques ad ce que ilz</rdg>
+</app>
+<app>
+<rdg wit="Cou">a dont qu’il eurent</rdg>
+<rdg wit="NY">adont qu’ilz</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">orent</rdg>
+</app>
+tout fait.
+<app>
+<rdg wit="Cou NY">Et onques</rdg>
+<rdg wit="Pa">Ne oncques</rdg>
+</app>
+<app>
+<rdg wit="Cou">des XV mille</rdg>
+<rdg wit="NY Pa">de XVM</rdg>
+</app>
+Flamens qui
+<app>
+<rdg wit="Cou NY">mors y</rdg>
+<rdg wit="Pa">la furent</rdg>
+</app>
+<app>
+<rdg wit="Cou">demorerent</rdg>
+<rdg wit="NY">demourerent</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">,</rdg>
+<rdg wit="Pa"/>
+</app>
+n’en recula
+<app>
+<rdg wit="Cou">uns seuls,</rdg>
+<rdg wit="NY Pa">un seul</rdg>
+</app>
+que
+<app>
+<rdg wit="Cou">tout n’i fusent mort</rdg>
+<rdg wit="NY Pa">tous ne</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">fussent mors</rdg>
+<rdg wit="Pa">furent ou mors ou pris,</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">tuet</rdg>
+<rdg wit="NY">tuéz</rdg>
+<rdg wit="Pa"/>
+</app>
+en
+<app>
+<rdg wit="Cou">III monchiaus</rdg>
+<rdg wit="NY Pa">trois</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">monciaux</rdg>
+<rdg wit="Pa">mortelles batailles</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">l’un</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">sus</rdg>
+<rdg wit="NY">sur</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">l’autre</rdg>
+<rdg wit="Pa"/>
+</app>
+, sans
+<app>
+<rdg wit="Cou Pa">issir de</rdg>
+<rdg wit="NY">yssir de la</rdg>
+</app>
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">la</rdg>
+</app>
+place
+<app>
+<rdg wit="Cou NY">la</rdg>
+<rdg wit="Pa"/>
+</app>
+ou
+<app>
+<rdg wit="Cou">cascunne</rdg>
+<rdg wit="NY">chascune</rdg>
+<rdg wit="Pa">chascun</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">bataille</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">commencha</rdg>
+<rdg wit="NY Pa">commença</rdg>
+</app>
+, qui
+<app>
+<rdg wit="Cou NY">fu</rdg>
+<rdg wit="Pa">fut</rdg>
+</app>
+l’an de
+<app>
+<rdg wit="Cou">Grasce M</rdg>
+<rdg wit="NY Pa">Grace mil</rdg>
+</app>
+CCC
+<app>
+<rdg wit="Cou Pa">XXVIII</rdg>
+<rdg wit="NY">XXVII</rdg>
+</app>
+, le jour
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">de</rdg>
+<rdg wit="Pa">de la</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">saint</rdg>
+<rdg wit="Pa">Saint</rdg>
+</app>
+<app>
+<rdg wit="Cou">Bietremieu</rdg>
+<rdg wit="NY">Bertelemy</rdg>
+<rdg wit="Pa">Berthelemy</rdg>
+</app>
+.
+<app>
+<rdg wit="Cou NY">Adont</rdg>
+<rdg wit="Pa">Lors</rdg>
+</app>
+aprés ceste desconfiture
+<app>
+<rdg wit="Cou">vinrent li</rdg>
+<rdg wit="NY Pa">vindrent les</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">François</rdg>
+<rdg wit="NY">Flamens</rdg>
+</app>
+a Cassel et y
+<app>
+<rdg wit="Cou">misent</rdg>
+<rdg wit="NY Pa">mistrent</rdg>
+</app>
+les
+<app>
+<rdg wit="Cou NY">banieres</rdg>
+<rdg wit="Pa">bannieres</rdg>
+</app>
+de France
+<app>
+<rdg wit="Cou Pa">.</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou Pa">Et se</rdg>
+<rdg wit="NY">et se</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">rendi</rdg>
+<rdg wit="NY">rendy</rdg>
+</app>
+<app>
+<rdg wit="Cou">le</rdg>
+<rdg wit="NY Pa">la</rdg>
+</app>
+ville au roy
+<app>
+<rdg wit="Cou NY">, et puis Popringhe</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et puis
+<app>
+<rdg wit="Cou Pa">Yppre</rdg>
+<rdg wit="NY">Ypre</rdg>
+</app>
+<app>
+<rdg wit="Cou">. Et tout chil</rdg>
+<rdg wit="NY Pa">et tous</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">ceulz</rdg>
+<rdg wit="Pa">ceulx</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">de la</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">chastelerie</rdg>
+<rdg wit="Pa">chastellerie</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">de</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">le castelerie</rdg>
+<rdg wit="NY">Bergues, et ceulz</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou Pa">de Berghes</rdg>
+<rdg wit="NY"/>
+</app>
+<app>
+<rdg wit="Cou">, et cil</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">et ceulx</rdg>
+</app>
+de Bruges
+<app>
+<rdg wit="Cou">ensievant. Et rechurent</rdg>
+<rdg wit="NY">ensivant</rdg>
+<rdg wit="Pa">ensuivant</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">. Et receurent</rdg>
+</app>
+le conte Loÿs
+<app>
+<rdg wit="Cou NY">, leur</rdg>
+<rdg wit="Pa">leur seigneur</rdg>
+</app>
+<app>
+<rdg wit="Cou">signeur</rdg>
+<rdg wit="NY">seigneur</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">, adont</rdg>
+<rdg wit="Pa"/>
+</app>
+amiablement et
+<app>
+<rdg wit="Cou">pasiblement et li</rdg>
+<rdg wit="NY Pa">paisiblement</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa"/>
+<rdg wit="NY">,</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">et lui</rdg>
+</app>
+jurerent foy et
+<app>
+<rdg wit="Cou">loiaulté a tenir</rdg>
+<rdg wit="NY">loyauté</rdg>
+<rdg wit="Pa">loyaulté</rdg>
+</app>
+a tousjours
+<app>
+<rdg wit="Cou">mes</rdg>
+<rdg wit="NY Pa">mais</rdg>
+</app>
+.
+            
+            Quant
+<app>
+<rdg wit="Cou">li rois Phelippes</rdg>
+<rdg wit="NY Pa">le roy Phelippe</rdg>
+</app>
+de France ot
+<app>
+<rdg wit="Cou NY">remis</rdg>
+<rdg wit="Pa">mis</rdg>
+</app>
+le conte de Flandres en son
+<app>
+<rdg wit="Cou NY">paÿs</rdg>
+<rdg wit="Pa">païs</rdg>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et que
+<app>
+<rdg wit="Cou">tout li</rdg>
+<rdg wit="NY Pa">tous lui</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">eurent</rdg>
+<rdg wit="NY">orent</rdg>
+</app>
+<app>
+<rdg wit="Cou">juret fiableté</rdg>
+<rdg wit="NY Pa">juré</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY">feauté</rdg>
+<rdg wit="Pa">feaulté</rdg>
+</app>
+et hommage, il
+<app>
+<rdg wit="Cou Pa">departi</rdg>
+<rdg wit="NY">departy</rdg>
+</app>
+ses gens et retourna
+<app>
+<rdg wit="Cou">cascuns</rdg>
+<rdg wit="NY Pa">chascun</rdg>
+</app>
+en son lieu
+<app>
+<rdg wit="Cou">;</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">, et</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+il
+<app>
+<rdg wit="Cou NY">meismes</rdg>
+<rdg wit="Pa"/>
+</app>
+s’en vint en France
+<app>
+<rdg wit="Cou NY">et</rdg>
+<rdg wit="Pa"/>
+</app>
+sejourner a Paris
+<app>
+<rdg wit="Cou Pa">ou</rdg>
+<rdg wit="NY">et</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">la</rdg>
+<rdg wit="Pa"/>
+</app>
+environ. Si
+<app>
+<rdg wit="Cou NY">fu durement</rdg>
+<rdg wit="Pa">fut moult</rdg>
+</app>
+prisiés et
+<app>
+<rdg wit="Cou">honnerés</rdg>
+<rdg wit="NY">honnoréz</rdg>
+<rdg wit="Pa">honnouréz</rdg>
+</app>
+de celle emprise
+<app>
+<rdg wit="Cou NY">qu’il avoit faite</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">sus</rdg>
+<rdg wit="NY">sur</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">les Flamens</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et
+<app>
+<rdg wit="Cou">dou</rdg>
+<rdg wit="NY Pa">du</rdg>
+</app>
+service
+<app>
+<rdg wit="Cou NY">aussi</rdg>
+<rdg wit="Pa">qu’il avoit fait</rdg>
+</app>
+<app>
+<rdg wit="Cou Pa">au</rdg>
+<rdg wit="NY">du</rdg>
+</app>
+conte
+<app>
+<rdg wit="Cou">Loeis</rdg>
+<rdg wit="NY Pa">Loÿs</rdg>
+</app>
+, son cousin. Si
+<app>
+<rdg wit="Cou NY">demora</rdg>
+<rdg wit="Pa">demoura</rdg>
+</app>
+en grant prosperité et en grant honneur
+<app>
+<rdg wit="Cou">.</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou">Et</rdg>
+<rdg wit="NY Pa">et</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">acrut</rdg>
+<rdg wit="Pa"/>
+</app>
+grandement
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">atout</rdg>
+</app>
+l’estat royal. Et
+<app>
+<rdg wit="Cou">n’i</rdg>
+<rdg wit="NY Pa">n’y</rdg>
+</app>
+avoit
+<app>
+<rdg wit="Cou NY">onques</rdg>
+<rdg wit="Pa">oncques</rdg>
+</app>
+mais
+<app>
+<rdg wit="Cou">eut</rdg>
+<rdg wit="NY">eu</rdg>
+<rdg wit="Pa"/>
+</app>
+en France
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">eu</rdg>
+</app>
+<app>
+<rdg wit="Cou"/>
+<rdg wit="NY Pa">roy</rdg>
+</app>
+,
+<app>
+<rdg wit="Cou NY">si</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">com</rdg>
+<rdg wit="NY Pa">comme</rdg>
+</app>
+on disoit,
+<app>
+<rdg wit="Cou">roy</rdg>
+<rdg wit="NY"/>
+<rdg wit="Pa">qu’il</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">qui</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">euist</rdg>
+<rdg wit="NY Pa">eust</rdg>
+</app>
+tenu
+<app>
+<rdg wit="Cou NY">l’estat</rdg>
+<rdg wit="Pa"/>
+</app>
+<app>
+<rdg wit="Cou">parel</rdg>
+<rdg wit="NY Pa">pareil</rdg>
+</app>
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">estat</rdg>
+</app>
+au roy
+<app>
+<rdg wit="Cou">Phelippre</rdg>
+<rdg wit="NY Pa">Phelippe</rdg>
+</app>
+. Et faisoit faire
+<app>
+<rdg wit="Cou NY">tournois,</rdg>
+<rdg wit="Pa"/>
+</app>
+joustes
+<app>
+<rdg wit="Cou">, festes</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et esbatemens
+<app>
+<rdg wit="Cou NY"/>
+<rdg wit="Pa">a</rdg>
+</app>
+moult
+<app>
+<rdg wit="Cou">souvent</rdg>
+<rdg wit="NY Pa"/>
+</app>
+<app>
+<rdg wit="Cou NY">et a</rdg>
+<rdg wit="Pa"/>
+</app>
+grant
+<app>
+<rdg wit="Cou NY">plenté</rdg>
+<rdg wit="Pa">planté</rdg>
+</app>
+.
+<app>
+<rdg wit="Cou">Coment le conte de Cain et mesire Roger de Mortemer furent justiciéz.</rdg>
+<rdg wit="NY Pa"/>
+</app>
+Or nous tairons
+<app>
+<rdg wit="Cou">nous I</rdg>
+<rdg wit="NY Pa">un</rdg>
+</app>
+petit de lui
+<app>
+<rdg wit="Cou">,</rdg>
+<rdg wit="NY Pa"/>
+</app>
+et parlerons
+<app>
+<rdg wit="Cou">d’aucunes</rdg>
+<rdg wit="NY Pa"/>
+</app>
+des
+<app>
+<rdg wit="Cou">ordenances</rdg>
+<rdg wit="NY Pa">ordonnances</rdg>
+</app>
+<app>
+<rdg wit="Cou NY">d’Engleterre</rdg>
+<rdg wit="Pa">d’Angleterre</rdg>
+</app>
+et
+<app>
+<rdg wit="Cou">dou gouvrenement le</rdg>
+<rdg wit="NY Pa">du gouvernement du</rdg>
+</app>
+roy.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>
