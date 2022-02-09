@@ -4,6 +4,7 @@
 
 #ignore venv
 .venv/
+my_env/
 
 # ignore idea
 .idea/
